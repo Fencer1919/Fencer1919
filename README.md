@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Fencer2021
+- 👀 I’m interested in playing games and learning how to make games.
+- 🌱 I’m currently learning Unity engine and C#.
