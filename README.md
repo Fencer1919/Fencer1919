@@ -1,6 +1,6 @@
 - Greetings, I’m @Fencer1919
-- I’m interested in playing games, learning about their design and learning how to make games.
-- I’m currently focusing on Unity and C#.
+- I’m currently focusing on Game Design and Game Production.
 - I know in depth C.
 - I know a bit of C++ and Python.
 - I know Autodesk Maya Modelling and Animation.
+- I know Unity and C#.
